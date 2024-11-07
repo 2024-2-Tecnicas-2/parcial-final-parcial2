@@ -1,6 +1,6 @@
 
 package controller;
-
+////////////// proyecto hecho por Angie muñoz y Janier Farid 
 import model.*;
 import view.VistaAnimal;
 

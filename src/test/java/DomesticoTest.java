@@ -1,5 +1,5 @@
-import logicaNegocio.Domestico;
-import logicaNegocio.Perro;
+import model.Domestico;
+import model.Perro;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
