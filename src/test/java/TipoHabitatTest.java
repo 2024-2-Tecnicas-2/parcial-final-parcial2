@@ -1,4 +1,4 @@
-import logicaNegocio.TipoHabitat;
+import model.TipoHabitat;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 

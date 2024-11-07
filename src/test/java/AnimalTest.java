@@ -1,7 +1,8 @@
-import logicaNegocio.Animal;
-import logicaNegocio.Delfin;
-import logicaNegocio.Leon;
-import logicaNegocio.TipoHabitat;
+/*import logicaNegocio.Delfin;*/
+import model.Animal;
+import model.Delfin;
+import model.Leon;
+import model.TipoHabitat;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
