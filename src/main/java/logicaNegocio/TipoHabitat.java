@@ -1,5 +1,6 @@
-package logicaNegocio;
+
+package model;
 
 public enum TipoHabitat {
-    // TODO: Aquí va tu código
+    ACUATICO, TERRESTRE, AEREO;
 }
